@@ -1,2 +1,2 @@
 # MachineLearning
-Adding codes to learn ML algorithm
+Adding codes to learn ML algorithms
