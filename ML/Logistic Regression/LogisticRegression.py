@@ -63,7 +63,7 @@ def optimize(x_train,y_train,w_ini,b_ini,alpha,itirations):
         
     return w,b
 
-df=pd.read_csv("db.csv", encoding= 'unicode_escape')
+df=pd.read_csv("diabetes_logistic_dataset.csv", encoding= 'unicode_escape')
 # Define X and Y
 x=df.iloc[:,0:7].values
 y=df.iloc[:,8].values
